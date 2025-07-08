@@ -1,5 +1,5 @@
 # Image to lego pixel art
-Convert any image into LEGO-style pixel art by transforming it into a grid of LEGO bricks.
+Convert image into a buildable LEGO pixel art by transforming it into a grid of LEGO bricks.
 
 ## Features
 
