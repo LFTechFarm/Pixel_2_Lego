@@ -3,8 +3,8 @@ Convert any image into LEGO-style pixel art by transforming it into a grid of LE
 
 ## Features
 
-- Convert images into pixelated LEGO art
--       Find the best lego piece using nearest neighbour
+- Convert images into pixelated LEGO art :
+Find the best lego piece using nearest neighbour
 - Customizable output size (e.g., 32×32, 64×64 bricks)  
 - Supports various image formats  
 - (Future) Optimized brick count and color accuracy
